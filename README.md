@@ -8,7 +8,10 @@ Alur Pembelajaran nya :
 3. Tingkat Akses member dan Class (Modifier dan Protected)
 4. Constructor dan Destructor pada Java (Constructor)
 5. Methode Setter dan Getter (Setter_Getter)
-
-Coming Soon 
+6. Kata Kunci this dan super (This_Super)
+7. Konsep Polymorfisme di Java (Polimorfolisme)
+8. Interface (Interface)
+9. Class Abstract (Abstrak)
+10. Anonymous Class & Lambda Expression (AnonymousObjek & ClassAnonymous)
 
 Thanks To : Petani Kode
