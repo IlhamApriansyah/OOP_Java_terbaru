@@ -1,5 +1,5 @@
 # OOP_Java_terbaru
-OOP Java menggunakan Netbeans dan IDE versi terbaru
+OOP Java menggunakan Java (11) dan Netbeans (12.5) versi terbaru
 saya jadikan satu package
 
 Alur Pembelajaran nya :
